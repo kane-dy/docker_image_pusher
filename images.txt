@@ -1,3 +1,3 @@
 nginx
-# hello-world
-hello-world:nanoserver-ltsc2025
+#debian
+debian:trixie-backports
