@@ -1,3 +1,11 @@
 nginx
 #debian
 debian:trixie-backports
+#navidrome
+deluan/navidrome:pr-4511
+#gitea
+gitea/gitea:main-nightly
+# mysql
+mysql:8.0.43
+#redis
+redis:alpine3.22
