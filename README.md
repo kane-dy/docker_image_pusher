@@ -80,10 +80,10 @@ xiaoyaliu/alist
 ![](doc/定时执行.png)
 ### images.txt
 1、在 images.txt 添加你需要的镜像（PR方式提交），你可以从 https://hub.docker.com/ 搜索需要的镜像后添加。
-2、新添加镜像，需要等待1分钟同步。之后通过命令 docker pull  registry.cn-hangzhou.aliyuncs.com/kane_dk/mysql 拉取你需要的镜像，如果有版本号，可以添加。如；mysql:8.0.32
+2、新添加镜像，需要等待1分钟同步。之后通过命令 docker pull  registry.cn-hangzhou.aliyuncs.com/shrimp-images/mysql 拉取你需要的镜像，如果有版本号，可以添加。如；mysql:8.0.32
 ```bash
 mysql:
-  image:  registry.cn-hangzhou.aliyuncs.com/kane_dk/mysql:8.0.32
+  image:  registry.cn-hangzhou.aliyuncs.com/shrimp-images/mysql:8.0.32
   container_name: mysql
   command: --default-authentication-plugin=mysql_native_password
   restart: always
