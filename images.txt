@@ -10,6 +10,7 @@ gitea/gitea:main-nightly
 mysql:8.0.43
 #redis
 redis:alpine3.22
+redis
 # nextcloud
 nextcloud:stable-fpm-alpine
 nextcloud
