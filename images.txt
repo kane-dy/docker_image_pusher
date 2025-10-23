@@ -1,6 +1,7 @@
 nginx
 #debian
 debian:trixie-backports
+debian
 #navidrome
 deluan/navidrome:pr-4511
 #gitea
