@@ -17,4 +17,4 @@ nextcloud
 # hello-world
 hello-world:latest
 # filebrowser
-filebrowser/filebrowser:v2-s6
+filebrowser/filebrowser:latest
