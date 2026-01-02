@@ -14,3 +14,5 @@ redis
 # nextcloud
 nextcloud:stable-fpm-alpine
 nextcloud
+# hello-world
+hello-world:latest
