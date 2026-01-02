@@ -16,3 +16,5 @@ nextcloud:stable-fpm-alpine
 nextcloud
 # hello-world
 hello-world:latest
+# filebrowser
+filebrowser/filebrowser:v2-s6
