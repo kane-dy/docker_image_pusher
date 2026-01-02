@@ -18,3 +18,5 @@ nextcloud
 hello-world:latest
 # filebrowser
 filebrowser/filebrowser:latest
+# jellyfin
+jellyfin/jellyfin:2025122905
